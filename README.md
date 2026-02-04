@@ -13,11 +13,11 @@ _____
 + Популярные фигуры в быстром доступе :warning:
 + Улучшение интерфейса приложения :notebook_with_decorative_cover:
 ______
-# :computer:Используемое ПО
+# :computer:*Используемое ПО*
 + Unity - разработка AR-приложения :hammer:
 + GitHub - версия 3.5.4 :mag_right:
 + Microsoft Visual Studio - среда программирования :wrench:
 _____
-# :golf:Миссия проекта
+# :golf:*Миссия проекта*
 + Повысить понимание геометрии :triangular_ruler:
 + Сделать обучение интерактивным :memo:
